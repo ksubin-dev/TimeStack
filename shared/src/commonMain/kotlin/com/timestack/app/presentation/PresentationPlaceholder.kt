@@ -1,0 +1,3 @@
+package com.timestack.app.presentation
+
+internal object PresentationPlaceholder
